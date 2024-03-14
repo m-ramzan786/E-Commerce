@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the E-Commerce Shop project, a sleek and functional e-commerce website created for an online shopping experience. This project is crafted with HTML, and Tailwind CSS, providing a responsive and stylish interface for users to explore and purchase products.
+Welcome to the E-Commerce Shop project, a sleek and functional e-commerce website created for an online shopping experience. This project is crafted with HTML and Tailwind CSS, providing a responsive and stylish interface for users to explore and purchase products.
 
 
 ### Table of Contents
