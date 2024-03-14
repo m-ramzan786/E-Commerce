@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the E-Commerce Shop project, a sleek and functional e-commerce website created for an online shopping experience. This project is crafted with HTML, CSS, and Tailwind CSS, providing a responsive and stylish interface for users to explore and purchase products.
+Welcome to the E-Commerce Shop project, a sleek and functional e-commerce website created for an online shopping experience. This project is crafted with HTML, and Tailwind CSS, providing a responsive and stylish interface for users to explore and purchase products.
 
 
 ### Table of Contents
@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/m-ramzan786/E-Commerce.git
+    git clone https://github.com/ramzancodeclub/E-Commerce.git
     ```
 
 2. Open the project folder in your code editor.
@@ -41,7 +41,6 @@ To explore the E-Commerce Shop:
 ## Technologies Used
 
 - HTML
-- CSS
 - Tailwind CSS (Link to the library)
 
 ## Features
@@ -70,8 +69,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ## Badges
 
-![GitHub top language](https://img.shields.io/github/languages/top/m-ramzan786/E-Commerce)
-![GitHub license](https://img.shields.io/github/license/m-ramzan786/E-Commerce)
+![GitHub top language](https://img.shields.io/github/languages/top/ramzancodeclub/E-Commerce)
+![GitHub license](https://img.shields.io/github/license/ramzancodeclub/E-Commerce)
 
 ## Feedback and Contributions
 
@@ -87,9 +86,9 @@ If you have any feedback or would like to contribute to the project, follow thes
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
-- Email: [mramzanstv@gmail.com](mramzanstv@gmail.com)
-- Portfolio: [Muhammad-Ramzan-Portfolio](https://muhammad-ramzan.vercel.app/)
-- LinkedIn: [in/m-ramzan786](https://www.linkedin.com/in/m-ramzan786/)
+- Email: [ramzancodeclub@gmail.com](ramzancodeclub@gmail.com)
+- Portfolio: [muhammad-ramzan.vercel.app](https://muhammad-ramzan.vercel.app/)
+- LinkedIn: [in/ramzancodeclub](https://www.linkedin.com/in/ramzancodeclub/)
 
 ## Tests
 
